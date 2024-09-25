@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/school_album/static/css/main.262b5d90.css",
+    "main.css": "/school_album/static/css/main.8d2a2527.css",
     "main.js": "/school_album/static/js/main.ee0860be.js",
     "static/media/DSC_0640.JPG": "/school_album/static/media/DSC_0640.0b44ed5750183eded4e0.JPG",
     "static/media/12801659.jpg": "/school_album/static/media/12801659.12239de270737b10b849.jpg",
@@ -10,11 +10,11 @@
     "static/media/p4.png": "/school_album/static/media/p4.a97b569f8efbd2d33195.png",
     "static/media/p2.png": "/school_album/static/media/p2.f663b363265df50eae41.png",
     "index.html": "/school_album/index.html",
-    "main.262b5d90.css.map": "/school_album/static/css/main.262b5d90.css.map",
+    "main.8d2a2527.css.map": "/school_album/static/css/main.8d2a2527.css.map",
     "main.ee0860be.js.map": "/school_album/static/js/main.ee0860be.js.map"
   },
   "entrypoints": [
-    "static/css/main.262b5d90.css",
+    "static/css/main.8d2a2527.css",
     "static/js/main.ee0860be.js"
   ]
 }
