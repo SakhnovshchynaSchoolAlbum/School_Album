@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/school_album/static/css/main.8d2a2527.css",
-    "main.js": "/school_album/static/js/main.337dca76.js",
+    "main.css": "/school_album/static/css/main.3641ab21.css",
+    "main.js": "/school_album/static/js/main.2676bdcd.js",
     "static/media/DSC_0640.JPG": "/school_album/static/media/DSC_0640.0b44ed5750183eded4e0.JPG",
     "static/media/12801659.jpg": "/school_album/static/media/12801659.12239de270737b10b849.jpg",
     "static/media/p3.png": "/school_album/static/media/p3.d15609993b30304795e0.png",
@@ -10,11 +10,11 @@
     "static/media/p4.png": "/school_album/static/media/p4.a97b569f8efbd2d33195.png",
     "static/media/p2.png": "/school_album/static/media/p2.f663b363265df50eae41.png",
     "index.html": "/school_album/index.html",
-    "main.8d2a2527.css.map": "/school_album/static/css/main.8d2a2527.css.map",
-    "main.337dca76.js.map": "/school_album/static/js/main.337dca76.js.map"
+    "main.3641ab21.css.map": "/school_album/static/css/main.3641ab21.css.map",
+    "main.2676bdcd.js.map": "/school_album/static/js/main.2676bdcd.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d2a2527.css",
-    "static/js/main.337dca76.js"
+    "static/css/main.3641ab21.css",
+    "static/js/main.2676bdcd.js"
   ]
 }
